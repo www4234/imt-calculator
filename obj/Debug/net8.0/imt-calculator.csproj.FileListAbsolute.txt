@@ -1,0 +1,14 @@
+/home/cesium/projects/imt-calculator/bin/Debug/net8.0/imt-calculator
+/home/cesium/projects/imt-calculator/bin/Debug/net8.0/imt-calculator.deps.json
+/home/cesium/projects/imt-calculator/bin/Debug/net8.0/imt-calculator.runtimeconfig.json
+/home/cesium/projects/imt-calculator/bin/Debug/net8.0/imt-calculator.dll
+/home/cesium/projects/imt-calculator/bin/Debug/net8.0/imt-calculator.pdb
+/home/cesium/projects/imt-calculator/obj/Debug/net8.0/imt-calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/cesium/projects/imt-calculator/obj/Debug/net8.0/imt-calculator.AssemblyInfoInputs.cache
+/home/cesium/projects/imt-calculator/obj/Debug/net8.0/imt-calculator.AssemblyInfo.cs
+/home/cesium/projects/imt-calculator/obj/Debug/net8.0/imt-calculator.csproj.CoreCompileInputs.cache
+/home/cesium/projects/imt-calculator/obj/Debug/net8.0/imt-calculator.dll
+/home/cesium/projects/imt-calculator/obj/Debug/net8.0/refint/imt-calculator.dll
+/home/cesium/projects/imt-calculator/obj/Debug/net8.0/imt-calculator.pdb
+/home/cesium/projects/imt-calculator/obj/Debug/net8.0/imt-calculator.genruntimeconfig.cache
+/home/cesium/projects/imt-calculator/obj/Debug/net8.0/ref/imt-calculator.dll
